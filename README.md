@@ -1,5 +1,5 @@
 # Sharded Key/Value Storage System based on Paxos
-This is a course project of a distributed system course. <br/>
+This is a course project of a distributed system course in Umich. <br/>
 <br/>
 This project contains 4 main packages, which as a whole can be used as a distributed, sharded, replicated Key/Value storage system 
 which supports "Put", "Append", and "Get" operations and provides linearizability. <br/>
